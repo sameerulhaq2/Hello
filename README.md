@@ -43,6 +43,27 @@ The selected dataset for this project is the IMDB Dataset of Movie Reviews and T
 # Target variables
 ![image](https://github.com/sameerulhaq2/Hello/assets/140944405/326b83e4-5237-437b-94a1-29444771b6b7)
 
+# Counter vectorization
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/de020a31-ea31-47fe-8530-366e70a0e0bc)
+
+# Spliting dataset 
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/98596ec5-19c0-4ff0-955c-6c0955a95f9c)
+
+# Machine learning models
+# MNB(Multinomial Naive Bayes)
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/606b4d57-ecc4-424a-b98d-d376b6b53fb9)
+
+# LR(Logistic Regression)
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/358482cd-929b-4fa4-b04d-449e5b0c3133)
+
+# Linear SVC (Support Vector Classifier)
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/4e244790-cdbc-4e21-ba78-ec07bbc63db4)
+
+
+
+
+
+
 
 
 
