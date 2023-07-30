@@ -31,6 +31,24 @@ The selected dataset for this project is the IMDB Dataset of Movie Reviews and T
 
 ![image](https://github.com/sameerulhaq2/Hello/assets/140944405/d55d8e5f-fe37-4e7d-bf99-2e6edf3d1397)
 
+# Distribtion of positive and negative ratings
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/bcd5e987-416b-4ac9-bd48-c6e90e1a4d5e)
+
+# Frequency of most common 30 words
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/5d84d593-7b48-49ec-a025-a31f8e3699f6)
+
+# Lemmatization
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/fb67bdda-f0f6-4aa8-9ada-d0e6d1108237)
+
+# Target variables
+![image](https://github.com/sameerulhaq2/Hello/assets/140944405/326b83e4-5237-437b-94a1-29444771b6b7)
+
+
+
+
+
+
+
 
 
 
